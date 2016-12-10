@@ -1,0 +1,11 @@
+[color]
+	ui = auto
+[user]
+	name = Mark Hobson
+	email = markhobson@gmail.com
+[alias]
+	ci = commit
+	di = diff
+	st = status
+[push]
+	default = upstream
