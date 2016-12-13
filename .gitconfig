@@ -9,3 +9,5 @@
 	st = status
 [push]
 	default = upstream
+[core]
+	editor = vi
