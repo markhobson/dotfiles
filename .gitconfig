@@ -11,3 +11,5 @@
 	default = upstream
 [core]
 	editor = vi
+[diff]
+	wsErrorHighlight = old,new
