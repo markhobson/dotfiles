@@ -13,3 +13,5 @@
 	editor = vi
 [diff]
 	wsErrorHighlight = old,new
+[tag]
+	sort = v:refname
