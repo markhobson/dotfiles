@@ -2,6 +2,6 @@
 
 set -e
 
-ln -s "$(pwd)/.gitconfig" ~/.gitconfig
-ln -s "$(pwd)/.tigrc" ~/.tigrc
-ln -s "$(pwd)/.vimrc" ~/.vimrc
+ln -sf "$(pwd)/.gitconfig" ~/.gitconfig
+ln -sf "$(pwd)/.tigrc" ~/.tigrc
+ln -sf "$(pwd)/.vimrc" ~/.vimrc
