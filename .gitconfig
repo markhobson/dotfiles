@@ -15,3 +15,5 @@
 	wsErrorHighlight = old,new
 [tag]
 	sort = v:refname
+[init]
+	defaultBranch = main
